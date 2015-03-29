@@ -1,0 +1,40 @@
+h2{ color: cornsilk}
+.topimages img {
+    height: 300px;
+    padding: 60px;
+    border: 15px solid cornsilk;
+}
+
+.topimages {
+    text-align: center;
+}
+
+.bottomimage img {
+    height: 300px;
+    padding: 60px;
+    border: 15px solid cornsilk;
+}
+
+.bottomimage {
+    text-align: center;
+    
+}
+
+p{ color: cornsilk}
+h4{ color: cornsilk}
+h6{ color: cornsilk}
+li{ background-color: darksalmon}
+body{ background-color: #4b012a; font-family: "Raleway"}
+
+ul {
+    list-style-type: none;
+}
+
+.list a{
+    text-decoration: none;
+}
+
+.list {
+    width: 100%;
+    text-align: center;
+}
